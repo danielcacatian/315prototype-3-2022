@@ -6,3 +6,7 @@ For my prototype 3, I wanted to explore difficulty in video games. What makes a 
 
 ### **Feedback & Reflection**<br>
 [Added after playtest]
+
+### **Credits**<br>
+Grapple Hook code by Vespper<br>
+Sound Effects by Dustyroom
