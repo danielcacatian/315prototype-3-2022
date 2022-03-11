@@ -51,6 +51,9 @@ public class GrapplingGun : MonoBehaviour
     [HideInInspector] public Vector2 grapplePoint;
     [HideInInspector] public Vector2 grappleDistanceVector;
 
+    [Header("SFX:")]
+    public AudioSource grappleSFX;
+
     private void Start()
     {
         grappleRope.enabled = false;
@@ -127,6 +130,7 @@ public class GrapplingGun : MonoBehaviour
                     grapplePoint = _hit.point;
                     grappleDistanceVector = grapplePoint - (Vector2)gunPivot.position;
                     grappleRope.enabled = true;
+                    grappleSFX.Play();
                 }
             }
         }
