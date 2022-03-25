@@ -1,8 +1,8 @@
 # 315prototype-3-2022
 
 ## REVISED DESIGN JOURNAL
-### **Design Hypothesis**<br>
-
+### **Revised Hypothesis**<br>
+I've learned that to make a video game seem both fair and challenging, you cannot have any surprises. In order for the game to be fair, the player should be able to know about the fundamentals of your game prior to the parts of the game that are purposely difficult. Otherwise, the game would appear to be unfair at first. When the players first know the gameplay mechanics, elements and limits, they naturally attempt to problem-solve through challenging levels with the knowledge they have at hand. When they fail, they think of another technique to try to conquer the obstacle. When they don't receive prior knowledge, they're faced with something that appears impossible, and they become discouraged to try again. I enjoy playing difficult games, but at the same time, I want to let players know that my prototype iteration is indeed possible, so I changed it to introduce the players' tools and mechanics. Afterwards, it is up to them to muster the courage and beat the hard level I designed through trial and error.
 
 ## ORIGINAL DESIGN JOURNAL
 ### **Design Hypothesis**<br>
