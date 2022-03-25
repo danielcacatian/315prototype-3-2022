@@ -1,6 +1,8 @@
 # 315prototype-3-2022
 
 ## REVISED DESIGN JOURNAL
+### **Design Hypothesis**<br>
+
 
 ## ORIGINAL DESIGN JOURNAL
 ### **Design Hypothesis**<br>
