@@ -66,6 +66,7 @@ public class GrapplingGun : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             SetGrapplePoint();
+
         }
         else if (Input.GetKey(KeyCode.Mouse0))
         {
@@ -88,6 +89,7 @@ public class GrapplingGun : MonoBehaviour
                     gunHolder.position = Vector2.Lerp(gunHolder.position, targetPos, Time.deltaTime * launchSpeed);
                 }
             }
+
         }
         else if (Input.GetKeyUp(KeyCode.Mouse0))
         {
