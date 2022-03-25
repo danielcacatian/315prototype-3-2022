@@ -28,3 +28,4 @@ I was able to achieve the difficulty I wanted in my prototype, but for mainly th
 ### **Credits**<br>
 Grapple Hook code by Vespper<br>
 Sound Effects by Dustyroom
+Crosshair by Elizabeth Studio
