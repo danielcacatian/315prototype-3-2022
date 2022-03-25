@@ -4,6 +4,9 @@
 ### **Revised Hypothesis**<br>
 I've learned that to make a video game seem both fair and challenging, you cannot have any surprises. In order for the game to be fair, the player should be able to know about the fundamentals of your game prior to the parts of the game that are purposely difficult. Otherwise, the game would appear to be unfair at first. When the players first know the gameplay mechanics, elements and limits, they naturally attempt to problem-solve through challenging levels with the knowledge they have at hand. When they fail, they think of another technique to try to conquer the obstacle. When they don't receive prior knowledge, they're faced with something that appears impossible, and they become discouraged to try again. I enjoy playing difficult games, but at the same time, I want to let players know that my prototype iteration is indeed possible, so I changed it to introduce the players' tools and mechanics. Afterwards, it is up to them to muster the courage and beat the hard level I designed through trial and error.
 
+### **New Feedback & Reflection**<br>
+[Added after playtests]
+
 ## ORIGINAL DESIGN JOURNAL
 ### **Design Hypothesis**<br>
 For my prototype 3, I wanted to explore difficulty in video games. What makes a game difficult? Unfairness? Lack of skills and understanding? These are viable reasons for what makes video games hard, so I decided to use this prototype to explore difficulties that would seem fair. I wanted to make an extremely difficult game that is easy to understand but hard to master. To accomplish this, I set out to implement one gameplay mechanic for my prototype and create a hard-to-navigate level around the core mechanic. I purposely made the prototype challenging but added elements to make the game seem fair. Through the playtest, I hope my game is seen as challenging but possible rather than frustrating and unplayable.
