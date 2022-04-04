@@ -34,5 +34,9 @@ I was able to achieve the difficulty I wanted in my prototype, but for mainly th
 
 ### **Credits**<br>
 Grapple Hook code by Vespper<br>
-Sound Effects by Dustyroom
-Crosshair by Elizabeth Studio
+Sound Effects by Dustyroom<br>
+Crosshair by Elizabeth Studio<br>
+Tilemap by Cainos<br>
+Skybox by Borodar<br>
+Character Sprite by Goldmetal Studio<br>
+Background Music - 8 Bit Adventure by AdhesiveWombat<br>
