@@ -1,11 +1,27 @@
-# 315prototype-3-2022
-
+# HOOKSHOT - 315prototype-3-2022
 ## REVISED DESIGN JOURNAL
 ### **Revised Hypothesis**<br>
 I've learned that to make a video game seem both fair and challenging, you cannot have any surprises. In order for the game to be fair, the player should be able to know about the fundamentals of your game prior to the parts of the game that are purposely difficult. Otherwise, the game would appear to be unfair at first. When the players first know the gameplay mechanics, elements and limits, they naturally attempt to problem-solve through challenging levels with the knowledge they have at hand. When they fail, they think of another technique to try to conquer the obstacle. When they don't receive prior knowledge, they're faced with something that appears impossible, and they become discouraged to try again. I enjoy playing difficult games, but at the same time, I want to let players know that my prototype iteration is indeed possible, so I changed it to introduce the players' tools and mechanics. Afterwards, it is up to them to muster the courage and beat the hard level I designed through trial and error.
 
-### **New Feedback & Reflection**<br>
-[Added after playtests]
+### **(New) Feedback & Reflection**<br>
+Here is the final feedback compilation from my iterative prototype (Prototype 3). The culmination of feedback will dictate the outcome of my final prototype design. Here is what I've learned from the playtesters and what I intend to do with their information.
+
+**Core Mechanic**<br>
+Unfortunately, I was not able to fix one of the major issues in my prototype for the iterative version, which was the grapple hook mechanic. The issue was that the grapple hook mechanic would feel irresponsive when it shouldn't have. Thankfully, one of the playtesters solved this issue. The reason why the grapple hook mechanic was irresponsive at times is because the hook would accidentally collide with the fire point (the gun) upon firing (Left-Clicking) from time to time. The issue was easily resolved by removing the collision on the gun that shoots the rope. Now, the core mechanic feels a lot more responsive, and when you miss, it feels more like it is because you didn't aim properly or are not correctly positioned to grapple onto the surface, unlike before, where the grapple felt like it was luck-based.
+
+**Game Elements**<br>
+Before, the UI elements of my game were difficult to understand, mainly the max range. I decided to fix this issue by implementing a crosshair element that dictates the mouse position while showcasing the player's max grapple range. With this new change, the playtesters found the max range element clearer, based on their feedback. Since there is no need for further improvements, I've decided to keep the same game element for the max range from my iterative to the final. Additionally, I will also keep some text instructions to ensure that all the game elements are concise to prevent confusion.
+
+**Difficulty**<br>
+In my original prototype, I purposely made it difficult to accomplish. In my iterative prototype, I left the same difficulty and let my playtesters rate it. Based on their answers, I would then redesign the level and make it easier from the start and then progressively more difficult towards the end. I plan on making it unforgivingly hard because the level design will most likely be short. However, I do plan on making it fair by letting the player save themselves during falls.
+
+**Conclusion**<br>
+The iterative playtesters have dictated the outcome of my final design. I will keep certain elements and transition them to fit the final game while also changing and adjusting things based on the playtesters' feedback. Additionally, I will also be adding assets to decorate the prototype to make it look like a legitimate game.
+
+**Final Improvements/Adjustments**<br>
+* Redesign the level (progressively difficult)
+* Fix the grapple hook mechanic (remove collision with fire point object)
+* Populate the game with assets (decorate the level)
 
 ## ORIGINAL DESIGN JOURNAL
 ### **Design Hypothesis**<br>
@@ -32,7 +48,7 @@ I was able to achieve the difficulty I wanted in my prototype, but for mainly th
 * Introduce gameplay mechanics (tutorial)
 * Add more mechanics/obstacles to prevent stale gameplay
 
-### **Credits**<br>
+## **CREDITS**<br>
 Grapple Hook code by Vespper<br>
 Sound Effects by Dustyroom<br>
 Crosshair by Elizabeth Studio<br>
